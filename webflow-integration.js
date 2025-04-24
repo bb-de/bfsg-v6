@@ -2,7 +2,7 @@
 (function() {
   // ===== KONFIGURATION =====
   // URL zum gehosteten Widget (ANPASSEN!)
-  const widgetUrl = 'https://ihr-host.com/widget/';  // Pfad zu Ihrem gehosteten Widget
+  const widgetUrl = 'https://bb-de.github.io/bfsg-v6/';  // Pfad zu Ihrem gehosteten Widget
   
   // Widget-Höhe und -Breite
   const buttonSize = '60px';         // Größe des geschlossenen Widgets (Button)
